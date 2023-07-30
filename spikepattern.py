@@ -50,7 +50,7 @@ t = np.arange(0, t_sim, del_t)
 
 ########### Spiking current ################
 
-I_freq = 10 # ms
+I_freq = 10 # Hz
 I_duration = 20 # ms
 I_amplitude = 509.7 # pA
 
