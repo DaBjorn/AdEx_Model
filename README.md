@@ -7,4 +7,4 @@ Uploaded files:
 2. paramvalues.py contains the parameter values used in the numerical analysis
 3. Nonlinear.py creates a curve that represents the exponential dependency of the integrate and fire model
 4. spikepatter.py contains the code for creating spike patterns of the AdEx model by using the parameter values and function from 1 and 2.
-5. firingrate.py contains teh code for plotting the variation of firing rate with respect to input current.
+5. firingrate.py contains the code for plotting the variation of firing rate with respect to input current.
